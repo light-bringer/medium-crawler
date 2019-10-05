@@ -1,0 +1,17 @@
+{
+  "name": "medium-crawler",
+  "version": "1.0.0",
+  "description": "A simple server to crrawl medium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "medium"
+  ],
+  "author": "Debapriya Das",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
